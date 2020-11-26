@@ -1,1 +1,3 @@
-# NFA_to_DFA_converter
+# NFA to DFA converter
+
+This is my final project of Compiler course.
